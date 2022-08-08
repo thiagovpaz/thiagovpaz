@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hey! 👋
+I'm Thiago, a fullstack developer from Brazil.
 
-<!--
-**thiagovpaz/thiagovpaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Locations
+- 🇧🇷 Brazil, Ceará, Fortaleza ( 👶 ~ 2020 )
+- 🇯🇵 Japan, Gunma, Maebashi ( 2020 ~ 2021 )
+- 🇯🇵 Japan, Chiba, Ichihara ( 2022 ~ 🧑‍🎓 )
+- 🇨🇦 Canada, Saskatchewan, Regina ( 💭 )
+- 🇩🇪 ( 💭 )
+- 🇳🇱 ( 💭 )
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 👨‍💻 TypeScript, JavaScript, PHP, JAVA
+- 📱 React Native, Android, Swift
+- ⚙️ React, Angular, Vue
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, POSTGRES, Mongo
+- 🐳 Docker, Jenkins, Kubernetes
+
+And more ...
+
+## Contact
+- [programador.me](https://www.programador.me) ⚠️
+- [thiagovpaz](https://www.linkedin.com/in/thiagovpaz) on Linkedin
+- [thiagovpaz#0854](./) on Discord
